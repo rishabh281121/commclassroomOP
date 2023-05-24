@@ -1,4 +1,5 @@
 # commclassroomOP 
 Priya Chandak
-LINUX
-GITHUB IS AMAZING
+Open source is love
+Github is so good
+start doing open source contributions
